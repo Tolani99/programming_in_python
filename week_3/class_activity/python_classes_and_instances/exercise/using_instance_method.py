@@ -1,7 +1,6 @@
 """
 @Payslips - The class Object
 
-
 The code provided defines a class called Payslips that represents a payslip.
 Each instance of the class has attributes such as name, payment, and amount,
 representing the employee's name, payment status, and the amount to be paid,
