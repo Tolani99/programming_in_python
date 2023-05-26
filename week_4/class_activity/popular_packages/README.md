@@ -1,0 +1,3 @@
+ popular packages in Python, it includes both built-in and third-party libraries. Once imported within the program, the usage of these packages follows the same structure and rules as regular code you would encounter without the import. You have explored some of the popular package names in the domains of data science, ML, and Web earlier on in the course. Here are a few examples of using these packages that will help you get comfortable with the idea.
+
+Before you use any package, the first piece of code that you must always use is the import statement. That is true even in the case of built-in packages
