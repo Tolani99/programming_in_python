@@ -37,3 +37,6 @@ Step 6: Complete the write_json_to_file() function
 Step 7: Save the files.
 
 Step 8: Open the terminal to execute the files.
+Step 9: Run the code using the command (within project directory)
+
+python3 jsongenerator.py
