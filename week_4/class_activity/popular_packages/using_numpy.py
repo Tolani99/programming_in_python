@@ -1,3 +1,14 @@
+"""
+The zeros() function inside numpy creates an array with n number of zeroes inside it.
+
+The full() function creates a two-dimensional matrix of dimensions 2 x 10 consisting only of the values 0.7.
+
+In the example, linspace() function divides the values between 0 and 25 in 7 equal parts. The resultant matrix is in the output.
+
+Finally, when you see the data type of c, it is a special data-type created and used in numpy called as ndarray. If you try the output for a and b, it will also be ndarray as numpy deals exclusively with ndarray, which is a substitute for lists and is far more efficient. 
+
+These are some of the functions provided by numpy.
+"""
 import numpy as np
 
 a = np.zeros(10)
